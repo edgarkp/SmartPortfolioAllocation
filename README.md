@@ -1,12 +1,12 @@
 # SmartPortfolioAllocation
 This project implements an approach to smartly select a stock's optimal size to build one's portfolio. It is based on the modern portfolio theory introduced by Harry Markowitz
 
-![](readme-images/Markowitz.png)
+![](readme-images/Markowitz.PNG)
 *Source: Investopedia*
 
 The theory is described by a set of statistical procedures to determine the allocation that maximizes the portfolio's expected return and minimizes its associated risk. It is defined under the framework of a risk-return tradeoff graph.
 
-![](readme-images/efficient-frontier.png)
+![](readme-images/efficient-frontier.PNG)
 
 ### The dataset
 The dataset provided is given by the Yahoo finance API and consists of stock data of the following companies that compose our portfolio:
